@@ -1,0 +1,27 @@
+{
+  "verificado_em": "2026-11-08",
+  "tipo": "curadoria documental; sem benchmark comparativo",
+  "referencias": [
+    {
+      "nome": "Impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "uso": "Revisar e aperfeiçoar uma interface existente.",
+      "licenca": "Apache-2.0",
+      "ultimo_commit_consultado": "2026-11-08"
+    },
+    {
+      "nome": "MengTo Skills",
+      "url": "https://github.com/MengTo/Skills",
+      "uso": "Escolher uma técnica, uma referência visual ou um fluxo específico.",
+      "licenca": "MIT",
+      "ultimo_commit_consultado": "2026-11-08"
+    },
+    {
+      "nome": "UI UX Pro Max",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "uso": "Pesquisar estilos, paletas e diretrizes para um sistema visual.",
+      "licenca": "MIT",
+      "ultimo_commit_consultado": "2026-11-07"
+    }
+  ]
+}
