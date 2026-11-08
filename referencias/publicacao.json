@@ -1,0 +1,23 @@
+{
+  "data": "2026-11-08",
+  "repositorio": "https://github.com/inematds/kit-design-ia",
+  "guia": "https://inematds.github.io/kit-design-ia/guia/",
+  "telegram": "https://t.me/c/3650752323/3862",
+  "telegram_menu_mensagem": 3874,
+  "portal_commits": [
+    "e6cba01",
+    "abd44d0"
+  ],
+  "busca_commit": "f19e4bd",
+  "catalogo_commit": "c97594d",
+  "verificacoes": [
+    "Guia PT revisado por agente independente em 390px: aprovado, nota 9",
+    "Âncoras, idiomas e imagens locais conferidos em PT/EN/ES",
+    "Pages Actions: success; HTTP 200 nos três idiomas",
+    "Portal: npm test, next build --webpack e tsc --noEmit passaram",
+    "content-base: node --test passou; 19434 itens, 398 projetos, 100% cursos/projetos classificados",
+    "Telegram: tópico e mensagem de MENU lidos de volta"
+  ],
+  "arte": "Banners PT e capa gerados pela assinatura; EN/ES usam hero sem texto (fallback do gerador).",
+  "video": "RTEX em revisão; destino lives3. Acompanhar PRODUCOES-VIDEO.md no WiFi."
+}
