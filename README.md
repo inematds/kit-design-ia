@@ -1,5 +1,7 @@
 # Kit Design com IA
 
+[![Kit Design com IA](guia/assets/banner.jpg)](https://inematds.github.io/kit-design-ia/guia/)
+
 **[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
 ## O que é
