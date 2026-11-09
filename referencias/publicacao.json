@@ -19,5 +19,11 @@
     "Telegram: tópico e mensagem de MENU lidos de volta"
   ],
   "arte": "Banners PT e capa gerados pela assinatura; EN/ES usam hero sem texto (fallback do gerador).",
-  "video": "RTEX em revisão; destino lives3. Acompanhar PRODUCOES-VIDEO.md no WiFi."
+  "video": {
+    "url": "https://youtube.com/shorts/DLPw-sI_TJI",
+    "canal": "lives3 / INEMA FTD",
+    "publicado_em": "2026-11-09",
+    "qa": "aprovado",
+    "revisor_independente": "aprovado, impacto 8"
+  }
 }

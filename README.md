@@ -12,6 +12,10 @@ O Kit Design com IA é uma seleção comentada de três bibliotecas de instruç�
 
 https://inematds.github.io/kit-design-ia/guia/
 
+## Vídeo de apresentação
+
+[Assista ao RTEX no canal INEMA FTD](https://youtube.com/shorts/DLPw-sI_TJI) — em português.
+
 ## As três referências
 
 - [Impeccable](https://github.com/pbakaus/impeccable): Revisar e aperfeiçoar uma interface existente. Licença upstream: Apache-2.0.
