@@ -10,6 +10,8 @@ Kit de diseño con IA es una selección comentada de tres bibliotecas de instruc
 
 https://inematds.github.io/kit-design-ia/guia/es/
 
+🎬 Video: https://www.youtube.com/shorts/DLPw-sI_TJI
+
 ## Las tres referencias
 
 - [Impeccable](https://github.com/pbakaus/impeccable): Revisar y perfeccionar una interfaz existente. Licencia upstream: Apache-2.0.

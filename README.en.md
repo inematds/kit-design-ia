@@ -10,6 +10,8 @@ AI Design Kit is an annotated selection of three instruction libraries for codin
 
 https://inematds.github.io/kit-design-ia/guia/en/
 
+🎬 Video: https://www.youtube.com/shorts/DLPw-sI_TJI
+
 ## The three references
 
 - [Impeccable](https://github.com/pbakaus/impeccable): Review and refine an existing interface. Upstream license: Apache-2.0.
